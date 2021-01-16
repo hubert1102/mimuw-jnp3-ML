@@ -1,0 +1,1 @@
+Repository for projects for MIMUW Machine Learning Course.
